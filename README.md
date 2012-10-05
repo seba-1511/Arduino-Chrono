@@ -10,3 +10,9 @@ Here is all the files I used to build my own chronometer. It was initialy an ide
 It is based on Arduino, uses Xbee for wireless communication (~300m) and the detectors are using IR beams to detect when something goes through them. By the way I take this occasion to thank Ken Shirriff for his library that helped a lot !
 
 Once again critics, comments and suggestions are really welcome, and keep in mind I may do errors, so point them out to me. Also if you modify or improve my code, let me know because I'll be happy to see what you've done.
+
+Futur implementations:
+1. Storing the times into an SD card and make a table out of them.
+2. Allow multiple skiers at the same time.
+3. Implementing a camera that takes a photo when the chrono starts.
+4. Having a camera that films you only from when the chrono starts to when it ends.
