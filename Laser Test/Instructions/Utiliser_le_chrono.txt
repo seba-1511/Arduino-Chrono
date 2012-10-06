@@ -1,0 +1,10 @@
+Voici les instructions pour utiliser le chronomètre.
+
+1. La cellule de départ
+Pour utiliser la cellule de départ, il faut planter les deux piquets de départ. Ensuite allumez le laser et visez le détecteur. (Peut être difficile) Pour finir, allumez le détecteur et attendez 10 secondes sans jamais couper le laser.
+Attention: Vérifiez bien que le laser est précisement sur le capteur avant d'allumer le détecteur.
+
+2. La cellule d'arrivée
+Avant d'installer la cellule d'arrivée, installez la cellule de départ. Ensuite, installez la cellule d'arrivée de la même manière que celle de départ.
+
+3. Options
