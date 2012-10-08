@@ -13,6 +13,8 @@ It is based on Arduino, uses Xbee for wireless communication (~300m) and the det
 
 Once again critics, comments and suggestions are really welcome, and keep in mind I may do errors, so point them out to me. Also if you modify or improve my code, let me know because I'll be happy to see what you've done.
 
+You can see a video of the prototype here: http://www.youtube.com/watch?v=61YS39FGn74
+
 Futur implementations:
 ----------------------
 1. Storing the times into an SD card and make a table out of them.
